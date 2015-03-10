@@ -20,6 +20,7 @@
     
     NSLog(@"Hello world");
     NSLog(@"Changes in project");
+    NSLog(@"Add New Change to project");
 }
 
 - (void)didReceiveMemoryWarning {
