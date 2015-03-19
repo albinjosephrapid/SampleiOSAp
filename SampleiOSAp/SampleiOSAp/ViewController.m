@@ -20,6 +20,8 @@
     
     NSLog(@"Hello world");
     NSLog(@"Changes in project");
+    
+    NSLog(@"Hi How are you");
 }
 
 - (void)didReceiveMemoryWarning {
